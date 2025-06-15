@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://harrmei.github.io/UmF/sitemap.txt
